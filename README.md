@@ -1,6 +1,6 @@
-# MicVolo
-Coding Bootcamp for Volo
+### MicVolo
+##Coding Bootcamp for Volo
 
-Here are my works
+#Here are my code examples and my works
 
 
